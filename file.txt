@@ -3,3 +3,4 @@ this is a modification
 checking ... checking ..
 commit without staging
 
+checking status
